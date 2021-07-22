@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-parte1-gama-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
